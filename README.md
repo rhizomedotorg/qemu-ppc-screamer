@@ -21,6 +21,9 @@ This will only build the PPC part of the emulator and support only pulse audio.
 ```sh
 cd qemu-screamer
 ./configure --target-list="ppc-softmmu" --enable-gtk --enable-sdl --audio-drv-list="pa" --enable-vde
+
+make
+cd build
 ```
 
 ### 4. Compile
