@@ -251,7 +251,7 @@ Double-click the "USBTabletINIT.sit" file to unpack the archive and to reveal th
 
 Boot the Mac OS 9.2.1 emulator. Return to the **Extensions** folder located with the *Systems Folder*. The USB-Tablet driver should appear listed as one of the installed extensions for the OS. 
 
-![Screenshot displaying "Systems Folder" showing the "Extensions" folder and the USB-Tablet Driver successfully installed inside.](MacOS9_CB_Screenshots\USBTablet-Appears-In-Extensions-Folder.PNG)
+![Screenshot displaying "Systems Folder" showing the "Extensions folder and the USB-Tablet Driver successfully installed inside.](MacOS9_CB_Screenshots/USBTablet-Appears-In-Extensions-Folder.PNG)
 
 As always, it is best practice when exiting the emulator to perform a **Clean Shut Down** by selecting *Shut Down* from the Special tab located on the Toolbar. 
 
