@@ -234,24 +234,24 @@ Save the edits to the shell script. Return to Ubuntu/Linux terminal and run the 
 ### Step 1: Open Systems Folder
 Double-click to open the *untitled* drive in the upper right hand corner of the Desktop. Double-click to open the *Systems Folder*.
 
-![Screenshot displaying "Systems Folder" located in "untitled" drive on Desktop.](MacOS9_CB_Screenshots/Select-Untitled-Drive-Select-Systems-Folder.png)
+![Screenshot displaying "Systems Folder" located in "untitled" drive on Desktop.](MacOS9_CB_Screenshots\Select-Untitled-Drive-Select-Systems-Folder.png)
 
 ### Step 2: Open tablet driver
 Double-click to open *tablet driver* disk located on Desktop. Drag the "USBTabletINIT.sit" file onto the Desktop. Close the *tablet driver* window. 
 
-![Screenshot showing the USB Tablet file being dragged out of the Tablet Driver disk folder and onto the Desktop.](MacOS9_CB_Screenshots/Drag-USBTabletINIT-File-On-To-Desktop.png)
+![Screenshot showing the USB Tablet file being dragged out of the Tablet Driver disk folder and onto the Desktop.](MacOS9_CB_Screenshots\Drag-USBTabletINIT-File-On-To-Desktop.png)
 
 ### Step 3: Unpack tablet-driver file. 
 The ".sit" (Stuffit) extension on the USB-Tablet file refers a proprietary archive of compressed files or digital objects. 
 Double-click the "USBTabletINIT.sit" file to unpack the archive and to reveal the *USB Tablet INIT* application. Next, return to your *Systems Folder* from the *untitled* drive and locate the **Extensions** folder. Drag the *USB Tablet INIT* application into the Extensions folder. Close all windows and shut down the emulator. 
 
-![Screenshot displaying "Systems Folder" showing the "Extensions" folder opened in its window and the USB-Tablet icon on the Desktop.](MacOS9_CB_Screenshots/Drag-USBTablet-Into-Extensions-Folder.png)
+![Screenshot displaying "Systems Folder" showing the "Extensions" folder opened in its window and the USB-Tablet icon on the Desktop.](MacOS9_CB_Screenshot\Drag-USBTablet-Into-Extensions-Folder.png)
 
 ### Step 4: Boot Mac OS 9.2.1 with Tablet-Driver installed
 
 Boot the Mac OS 9.2.1 emulator. Return to the **Extensions** folder located with the *Systems Folder*. The USB-Tablet driver should appear listed as one of the installed extensions for the OS. 
 
-![Screenshot displaying "Systems Folder" showing the "Extensions" folder and the USB-Tablet Driver successfully installed inside](MacOS9_CB_Screenshots/USBTablet-Appears-In-Extensions-Folder.png)
+![Screenshot displaying "Systems Folder" showing the "Extensions" folder and the USB-Tablet Driver successfully installed inside.](MacOS9_CB_Screenshots\USBTablet-Appears-In-Extensions-Folder.PNG)
 
 As always, it is best practice when exiting the emulator to perform a **Clean Shut Down** by selecting *Shut Down* from the Special tab located on the Toolbar. 
 
